@@ -1,0 +1,57 @@
+body{
+    background-color: bisque;
+}
+.first{
+    display: flex;
+}
+
+.khat img{
+    height: 200px;
+    width: 200px;
+}
+.khat2 p{
+    font-size: 20px;
+    color: rgb(76, 0, 255);
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 40px;
+    padding: 50px;
+}
+.khat3 p {
+    font-size: 20px;
+    color: rgb(221, 10, 10);
+    font-weight: 400;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 40px;
+    padding: 50px;
+}
+.my1{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+}
+.my2{
+    background-color: rgb(42, 165, 63);
+    height: 100px;
+    width: 100px;
+    border-radius: 20px; 
+}
+.my3{
+    background-color: rgb(233, 128, 7);
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+}
+.my4{
+    background-color: rgb(247, 9, 207);
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+}
+.second{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
