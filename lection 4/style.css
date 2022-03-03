@@ -1,0 +1,107 @@
+body{
+    background-color: bisque;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position:fixed;
+    top:0;
+    width: 100%;
+    overflow: hidden;
+    background-color: rebeccapurple;
+    display: flex;
+    left: 0;
+    justify-content: space-between;
+}
+ul img{
+height: 50px;
+}
+    
+
+li a{
+    color:rgb(17, 17, 17);
+    display: block;
+    padding: 15px 15px;
+    text-decoration: none;
+}
+.container{
+    display: flex;
+}
+.container1{
+    display:flex
+}
+.container2{
+    display: flex;
+}
+.container3{
+    display: flex;
+}
+li a:hover{
+    background-color: white;
+}
+.active{
+    background-color: crimson;
+}
+
+.first{
+    display: flex;
+}
+.my{
+    
+    margin-top: 200px;
+    margin-left: 400px;
+}
+
+.khat img{
+    height: 200px;
+    width: 200px;
+}
+
+.khat2 p{
+    font-size: 20px;
+    color: rgb(76, 0, 255);
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 40px;
+    padding: 50px;
+}
+.khat3 p {
+    font-size: 20px;
+    color: rgb(221, 10, 10);
+    font-weight: 400;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 40px;
+    padding: 50px;
+}
+.my1{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+}
+.my2{
+    background-color: rgb(42, 165, 63);
+    height: 100px;
+    width: 100px;
+    border-radius: 20px; 
+}
+.my3{
+    background-color: rgb(233, 128, 7);
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+}
+.my4{
+    background-color: rgb(247, 9, 207);
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+}
+.second{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
